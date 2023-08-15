@@ -23,6 +23,6 @@ This applications has build with:
 
 ### Links
 
-- Live site []()
+- Live site [https://gbmoura-weather-app.netlify.app/](https://gbmoura-weather-app.netlify.app/)
 - Linkedin [Gabriel Moura](https://www.linkedin.com/in/gabriel-moura-b63382161/)
-- Frontend Mentor[@gbmouraa](https://www.frontendmentor.io/profile/gbmouraa)
+- Frontend Mentor [@gbmouraa](https://www.frontendmentor.io/profile/gbmouraa)
